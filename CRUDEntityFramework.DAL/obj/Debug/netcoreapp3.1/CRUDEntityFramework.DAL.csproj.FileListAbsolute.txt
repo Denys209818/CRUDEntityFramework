@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\bin\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\bin\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\bin\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\bin\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\bin\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\obj\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\obj\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\obj\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\obj\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\obj\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\obj\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\CRUDEntityFramework\CRUDEntityFramework.DAL\obj\Debug\netcoreapp3.1\CRUDEntityFramework.DAL.genruntimeconfig.cache
